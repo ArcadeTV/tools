@@ -1,0 +1,15 @@
+megalink v1.0.0.4  27.01.2021
+1) In game mode usb access to memory beginning from the 0x800000 without system halt/reset
+2) New cmd -rstoff turns off automatic reset after access to the memory
+
+megalink v1.0.0.3  17.11.2020
+1) Minor changes required for OS 4.08
+
+megalink v1.0.0.2  28.07.2020
+1) included cmd for reset mode forcing. Put the command in the beginning of command line
+-rtype hard	hard reset (use it for mega sg)
+-rtype soft	regular soft reset
+-rtype off      auto mode (default)
+
+megalink v1.0.0.1  23.07.2020
+1) Fix for file copying function
