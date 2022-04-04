@@ -64,3 +64,17 @@ chmod +x fixheader
 ```
 ./fixheader [MegaDrive ROM file]
 ```
+
+---
+
+## FLIPS
+
+### compile
+```
+clang++ *.c *.cpp -O3 -o flips 
+```
+
+### usage
+```
+./flips --create [unmodified file][modified file][bps filepath]
+```
