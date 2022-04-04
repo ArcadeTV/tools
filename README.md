@@ -1,3 +1,18 @@
+# Tools Collection for Mega Drive development toolchains
+
+## Included Tools
+
+### Sources
+
+- [checkhash](https://github.com/sonicretro/s2disasm/tree/master/build_source) (SonicRetro)
+- [fixheader](https://github.com/sonicretro/s2disasm/tree/master/build_source) (SonicRetro)
+- [Flips](git clone https://github.com/Alcaro/Flips)
+- [Furrtek's ROM padder](http://furrtek.free.fr/index.php?p=crea&a=neogeo&ng=9)
+- [srecpatch](https://github.com/suppertails66/yuitools/tree/master/new_tools/yui) (yuitools)
+- [VASM](https://github.com/Leffmann/vasm)
+
+--- 
+
 ## VASM
 
 ### build
